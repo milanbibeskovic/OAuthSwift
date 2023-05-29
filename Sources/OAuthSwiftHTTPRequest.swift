@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import UIKit
 
 let kHTTPHeaderContentType = "Content-Type"
 
